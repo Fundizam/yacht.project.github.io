@@ -1,0 +1,18 @@
+body
+{
+    margin: 0;
+    padding: 0;
+}
+
+#navbar-outer
+{
+    background-color: rgba(255, 255, 255, 0.1);
+}
+#navbar-outer a
+{
+    color: black;
+}
+#carousel-main
+{
+    height: 100vh;
+}

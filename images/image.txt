@@ -1,1 +1,7 @@
+links to images:
 
+list.svg - icons.getbootstrap.com/icons/list/
+share-fill.svg - icons.getbootstrap.com/icons/share-fill/
+yacht-1.jpg - www.ferretti-yachts.com
+yacht-2.jpg - www.infiniteyachts.com
+yacht-3.jpg - www.ferretti-yachts.com
