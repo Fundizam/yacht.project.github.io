@@ -14,5 +14,6 @@ body
 }
 #carousel-main
 {
-    height: 100vh;
+    min-width: 576px;
+    height: auto;
 }
