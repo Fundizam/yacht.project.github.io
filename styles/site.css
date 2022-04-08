@@ -17,3 +17,23 @@ body
     min-width: 576px;
     height: auto;
 }
+
+.image
+{
+    height: 40vh;
+    width: 25%;
+    background-image: url("../images/placeholder-image.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.image a
+{
+    display: block;
+    height: 100%;
+    width: 100%;
+}
+.image h2
+{
+    padding-top: 0.5em;
+}
